@@ -34,6 +34,23 @@ marp-starter-kit-en/
     - Type `themes\mydefault.css`
     - Select OK
 
+## How to make two-columns layout
+
+```
+<div class="row">
+<div class="column">
+
+Left column content
+
+</div>
+<div class="column">
+
+Right column content
+
+</div>
+</div>
+```
+
 ## How to remove footer from a slide
 
 ```
