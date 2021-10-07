@@ -33,6 +33,7 @@ marp-starter-kit-en/
     - Select Add at `Markdown › Marp: Themes`
     - Type `themes\mydefault.css`
     - Select OK
+    - Check `Markdown › Marp: Enable HTML`
 
 ## How to make two-columns layout
 
