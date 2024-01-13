@@ -7,6 +7,7 @@ footer: Presentation Title | Your Name | Date
 
 ---
 <!-- _class: lead invert -->
+<!-- _paginate: false -->
 
 ### Event Name
 
